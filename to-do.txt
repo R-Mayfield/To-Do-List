@@ -1,3 +1,4 @@
 1. Read Larisa's paper
 2. Comments and edits
 3. Write section re: composite core proof
+I don't understand how and when this is being saved

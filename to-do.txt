@@ -1,3 +1,4 @@
-1. Read Larisa's paper
+1. Read ML paper
 2. Comments and edits
-3. Write section re: composite core proof
+3. Write composite core proof
+4. Send to Pete 
